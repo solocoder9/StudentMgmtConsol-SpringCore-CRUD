@@ -1,0 +1,54 @@
+# Ignore Maven's target directory
+/target/
+
+# Log files
+*.log
+logs/
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# VS Code files
+.vscode/
+
+# Temporary files and cache
+*.tmp
+*.bak
+*.swp
+*.stackdump
+hs_err_pid*
+
+# Spring-specific files
+spring.log
+
+# Environment variables
+.env
+
+# Tomcat-specific files
+/work/
+/logs/
+/temp/
+conf/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# Node/npm (if applicable)
+node_modules/
+package-lock.json
+yarn.lock
