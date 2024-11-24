@@ -1,4 +1,4 @@
-# 📝 Student Management Console
+# 🎓 Student Management Console
 
 Student Management Console is a Java-based console application for managing student records. It allows users to add a student, display all students, view a single student's details, update a student's information, and delete a student. This project utilizes Spring Core, Spring ORM (Hibernate), MySQL, and Eclipse IDE for seamless database interaction and CRUD operations.
 
